@@ -1,0 +1,2 @@
+# JavaFX
+Simple JavaFX application
